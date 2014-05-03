@@ -15,12 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="preferences_alerts_custom_snooze_delay_title">Minta untuk peringatan lengah tidur</string>
-  <string name="preferences_alerts_custom_snooze_delay_summary_on">Minta untuk lengah tidur apabila peringatan bangun tidur</string>
-  <string name="preferences_alerts_custom_snooze_delay_summary_off">Sentiasa guna lengah tidur lalai</string>
-  <string name="snooze_delay_dialog_title">Tetapkan lengah tidur</string>
-  <string name="preferences_default_snooze_delay_title">Masa lengah tidur lalai</string>
-  <string name="preferences_default_snooze_delay_dialog">Lengah tidur lalai</string>
-  <string name="default_start_title">Paparan lalai</string>
-  <string name="default_start_last">Paparan digunakan sebelum</string>
+    <string name="rsvp_accepted">Událost přijata.</string>
+    <string name="rsvp_tentative">Událost nezávazně přijata.</string>
+    <string name="rsvp_declined">Událost odmítnuta."</string>
 </resources>
